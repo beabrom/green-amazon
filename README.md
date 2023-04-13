@@ -1,4 +1,4 @@
-# The Green Amazon: An Analysis of Compensatory Greenwashing in Global E-Commerce
+# Green Amazon: An Analysis of Compensatory Greenwashing in Global E-Commerce
 This repository contains an analysis of ‘green' discourses and greenwashing vocabulary in product descriptions of household products and their online marketing within commercial online spaces.
 It was created by Barbora Bromová, Markéta Ovečková, and Šimon Trlifaj for the 2023 CIVICA course Diving in the Digital Public Space.
 
